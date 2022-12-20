@@ -10,10 +10,4 @@ public class RegController {
     public TextField username;
     public PasswordField password;
     public Label isLogin;
-
-    public void reg(ActionEvent actionEvent) {
-    }
-
-    public void toLog(ActionEvent actionEvent) {
-    }
 }
